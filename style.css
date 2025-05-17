@@ -1,0 +1,33 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 600px;
+    margin: 80px auto;
+    padding: 20px;
+    text-align: center;
+}
+.scrolls {
+    margin: 40px 0;
+}
+.scroll {
+    margin: 15px 0;
+    font-size: 1.2em;
+}
+.locked span {
+    color: #888;
+    font-style: italic;
+}
+.cta {
+    font-weight: bold;
+    margin-top: 20px;
+}
+.footer {
+    margin-top: 60px;
+    font-size: 0.8em;
+    color: #888;
+}
